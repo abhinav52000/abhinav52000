@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - email -> abhinhavkumar2000@gmail.com
 - phone -> 9350258260
+- 🏢 My previous organisation -> Eulogik, PhotoStudy
 
 <!---
 abhinav52000/abhinav52000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
